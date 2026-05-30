@@ -1,0 +1,6 @@
+{
+  "name": "Study Focus Notes",
+  "description": "Save and manage notes or lectures, organize with folders, pin important ideas, share with classmates, and trigger a focused Study Mode that blocks social media notifications and distracting web content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
